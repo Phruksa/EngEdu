@@ -17,6 +17,7 @@ namespace EngEdu
             Console.WriteLine("Year 2563 semester 1, I prepare for apprentice.");
             Console.WriteLine("Year 2563 semester 2, I have to do apprentice.");
             Console.WriteLine("Year 2564 semester 1, I will make to project.");
+            Console.WriteLine("Year 2564 semester 2, I prepare the student teaching practice.")
         }
     }
 }
