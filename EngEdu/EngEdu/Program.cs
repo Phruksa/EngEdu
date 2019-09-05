@@ -15,6 +15,7 @@ namespace EngEdu
             Console.WriteLine("Year 2562 semester 1, I start my programmer life.");
             Console.WriteLine("Year 2562 semester 2, I think learn to digital.");
             Console.WriteLine("Year 2563 semester 1, I will learn to make application.");
+            Console.WriteLine("Year 2563 semester 2, I will learn to make mobile application.");
 
         }
     }
